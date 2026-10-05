@@ -37,6 +37,10 @@ predictive_maintenance/
 
 ---
 
+## Architecture
+
+[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/nathesh6/ai-powered-predictive-maintenance-system-for-industrial-equipment?utm_source=readme&utm_medium=badge)
+
 ## 🧠 ML Model Details
 
 | Property        | Value                        |
